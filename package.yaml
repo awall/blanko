@@ -23,6 +23,7 @@ dependencies:
 - base >= 4.7 && < 5
 - blank-canvas >= 0.5 && < 0.7
 - Yampa >= 0.13 && < 0.14
+- text
 
 executables:
   blanko-exe:
