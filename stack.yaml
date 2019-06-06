@@ -40,6 +40,7 @@ packages:
 extra-deps:
 - blank-canvas-0.6.3
 - Yampa-0.13
+- yampa-canvas-0.2.3
 - colour-2.3.4
 - kansas-comet-0.4
 - simple-affine-space-0.1
